@@ -1,0 +1,14 @@
+#slide{
+    .img-wrapper{
+        min-width: 100%;
+        overflow: hidden;
+        margin-top: 56px !important;
+        img {
+            margin-left: auto;
+            margin-right: auto;
+            height: 200px;
+            display: block;
+        }
+    }
+}
+  
